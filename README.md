@@ -5,7 +5,7 @@ This repository contains structured data science assignments, each organized as 
 ## 📁 Projects
 
 - [Assignment 1](data-science-projects/data-science-projects/assignment-1): A step-by-step notebook with standard data science workflow.
-- [Assignment 2](./assignment-2): A structured notebook following the same professional format.
+- [Assignment 2](data-science-projects/data-science-projects/assignment-2): A structured notebook following the same professional format.
 
 Each project folder includes:
 - A Jupyter Notebook (`.ipynb`)
